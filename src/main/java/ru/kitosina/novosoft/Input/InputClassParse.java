@@ -1,9 +1,6 @@
 package ru.kitosina.novosoft.Input;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 public class InputClassParse {
 
@@ -48,4 +45,5 @@ public class InputClassParse {
     public void setMessageClient(List<String> messageClient) {
         this.messageClient = messageClient;
     }
+
 }
