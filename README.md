@@ -14,6 +14,4 @@
 
 ### Project Download
 `git clone: https://github.com/kitosina/NovosoftTaskExample.git`
-***
-### Program launch
-`gradle bootRun`
+
